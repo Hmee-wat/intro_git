@@ -2,3 +2,4 @@ Gitの連絡してきます。
 基本的なワークフローを学びます。
 .git add
 .git commit
+.git remove	rm
